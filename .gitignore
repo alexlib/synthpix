@@ -198,3 +198,4 @@ data/
 
 # Track documentation images
 !docs/images/*.png
+uv.lock
